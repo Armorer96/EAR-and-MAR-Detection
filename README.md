@@ -2,7 +2,7 @@ Eye Aspect Ratio (EAR) and Mouth Aspect Ratio(MAR) detection using Python and Fa
 
 Eye Aspect Ratio (EAR) and Mouth Aspect Ratio(MAR) can be used to identify-
 
-1.Facial expression of a person classified based on observed EAR and MAR values.
+1.Facial expression of a person classified based on observed EAR and MAR values
 2.Drowsiness detection while dirving
 3.Behaviour of driver i.e attentive while driving using MAR ratio
 
